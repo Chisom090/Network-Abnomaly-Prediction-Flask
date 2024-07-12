@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+2024-10-7 
+
+Author: Chisom Eriobu
+"""
+anomaly_detection_flask/
+├── app.py
+├── knn_model.pkl
+├── train_data.csv
+├── test_data.csv
+├── static/
+│   └── style.css
+└── templates/
+    └── index.html
+
